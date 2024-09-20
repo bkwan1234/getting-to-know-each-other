@@ -25,11 +25,11 @@
         <h5>hobby 1</h5>
         <p>placeholder</p>
         <h5>hobby 2</h5>
-        <p>placeholder</p>
+        <p>I like to hang with friends</p>
         <h5>hobby 3</h5>
-        <p>placeholder</p>
+        <p>I collect model airplanes </p>
     <h3>fun fact</h3>
-        <p>placeholder</p>
+        <p>I am on the basektball team here at Lewis</p>
 </div>
 </body>
 </html>
