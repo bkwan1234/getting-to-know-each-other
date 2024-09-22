@@ -10,7 +10,7 @@
     <h2>Prefered Name</h2>
         <p>Brandon Kwan</p>
     <h2>Lewisu Email</h2>
-       <html> <p>brandonckwan@lewisu.edu</p>
+        <p>brandonckwan@lewisu.edu</p>
     <h2>Discord</h2>
         <p>Schumpleton</p>
 </div>
