@@ -2,7 +2,7 @@
 <html>
 <head> 
     <Link rel="stylesheet" href="me.css">
-</head>
+</head> Brandon Kwan
 <body>
 <img src="" alt="Brandon" width="500" height="600">
 <h1>Getting to Know Each Other</h1>
