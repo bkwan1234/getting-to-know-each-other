@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <Link rel="stylesheet" href="me.css">
+</head>
+<body>
+<img src="me.png placeholder" alt="placeholder name" width="500" height="600">
+<h1>Getting to Know Each Other</h1>
 <div class="box-one">
     <h2>Prefered Name</h2>
         <p>Brandon Kwan</p>
@@ -10,9 +18,9 @@
     <h3>Introduction</h3>
         <p>placeholder</p>
     <h3>What I hope to learn</h3>
-        <p>I hope to learn about coding a how computers work more</p>
+        <p>I am hopin to learn more about coding and how computers work more</p>
     <h3>Favorite hobby</h3>
-        <h5>hobby 1</h5>
+        <h5>One of my favorite hobbies is to go to the airport and watches airplanes takeoff and land 1</h5>
         <p>placeholder</p>
         <h5>hobby 2</h5>
         <p>placeholder</p>
