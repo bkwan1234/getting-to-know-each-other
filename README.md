@@ -4,7 +4,7 @@
     <Link rel="stylesheet" href="me.css">
 </head>
 <body>
-<img src="[IMG_2096.JPG](https://mail.google.com/mail/u/0?ui=2&ik=f8d3b56d21&attid=0.1&permmsgid=msg-a:r6321192338046398925&th=191cf4784eed61d8&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_sBuaocf4XcZGo2t8QSbQQbVtisf07vEALEKBMlkKKPH1t-rrafvRAPl_uShvJNl2t-1ztJOLWt8BmiucXFer4Y1d6DYxn9fC_BS2MbqG6FCL4VnVlrLoT_cU&disp=emb&realattid=9C15D300-E71C-4C50-B1B3-59FD8A3FC1B0)" alt="Brandon" width="500" height="600">
+<img src="" alt="Brandon" width="500" height="600">
 <h1>Getting to Know Each Other</h1>
 <div class="box-one">
     <h2>Prefered Name</h2>
