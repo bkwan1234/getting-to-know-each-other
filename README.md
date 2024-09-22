@@ -4,7 +4,7 @@
     <Link rel="stylesheet" href="me.css">
 </head>
 <body>
-<img src="me.png placeholder" alt="Brandon" width="500" height="600">
+<img src="IMG_2096.JPGr" alt="Brandon" width="500" height="600">
 <h1>Getting to Know Each Other</h1>
 <div class="box-one">
     <h2>Prefered Name</h2>
