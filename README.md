@@ -18,7 +18,7 @@
     <h3>Introduction</h3>
         <p>Hi! My name is Brandon Kwan. I am a senior here at Lewis. I am from Kansas City, MO and my major/minor is Aviation Administration major and Aircraft Dispatch Minor. I live with my parents back home during the summer when I am not at Lewis and we also have 4 cats. I am not alone while I am here at Lewis though because my grandparents live in Chicago also so I get to visit them a lot while I am here at school. I also am apart of the basketball team here at Lewis.</p>
     <h3>What I hope to learn</h3>
-        <p>I am hopin to learn more about coding and how computers work more</p>
+        <p>I am hoping to learn more about coding and how computers work more</p>
     <h3>Favorite hobby</h3>
         <h5>Hobby 1</h5>
         <p>One of my favorite hobbies is to go to the airport and watches airplanes takeoff and land</p>
