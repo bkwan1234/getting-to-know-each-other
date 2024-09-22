@@ -12,7 +12,7 @@
     <h2>Lewisu Email</h2>
         <p>brandonckwan@lewisu.edu</p>
     <h2>Discord</h2>
-        <p>placeholder</p>
+        <p>Schumpleton</p>
 </div>
 <div class="box-two">
     <h3>Introduction</h3>
