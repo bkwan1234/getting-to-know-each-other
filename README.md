@@ -5,14 +5,14 @@
 </head>
 <body>
 <img src="" alt="Brandon" width="500" height="600">
-<h1>Brandon Kwan</h1>
+<h1>Getting To Know Each Other</h1>
 <div class="box-one">
     <h2>Prefered Name</h2>
         <p>Brandon Kwan</p>
     <h2>Lewisu Email</h2>
         <p>brandonckwan@lewisu.edu</p>
     <h2>Discord</h2>
-        <p>Schumpleton</p>
+        <p>bkwan1234</p>
 </div>
 <div class="box-two">
     <h3>Introduction</h3>
