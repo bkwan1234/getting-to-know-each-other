@@ -2,10 +2,10 @@
 <html>
 <head> 
     <Link rel="stylesheet" href="me.css">
-</head> Brandon Kwan
+</head>
 <body>
 <img src="" alt="Brandon" width="500" height="600">
-<h1>Getting to Know Each Other</h1>
+<h1>Brandon Kwan</h1>
 <div class="box-one">
     <h2>Prefered Name</h2>
         <p>Brandon Kwan</p>
