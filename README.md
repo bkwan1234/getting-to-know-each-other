@@ -3,6 +3,32 @@
 <head> 
     <Link rel="stylesheet" href="me.css">
 </head>
+* {
+    text-align: center;
+}
+.box-one {
+    background-color: grey;
+    width: 1390px;
+    height: 280px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+.box-two {
+    background-color: grey;
+    width: 1390px;
+    height: 500px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+body {
+    background-image: url(black-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}    
 <body>
 <img src="img_2096.png" alt="Brandon" width="600" height="600">
 <center> <h1>Getting To Know Each Other</h1>
