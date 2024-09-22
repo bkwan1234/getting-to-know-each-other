@@ -20,7 +20,7 @@
     <h3>What I hope to learn</h3>
         <p>I am hoping to learn more about coding and how computers work more</p>
     <h3>Favorite hobby</h3>
-        <h5>Hobby 1</h5>
+        <h5>My Hobbies</h5>
         <p>One of my favorite hobbies is to go to the airport and watches airplanes takeoff and land</p>
         <p>My second hobby is watching lots of sports. It could be watching college football or basketball and then any professional sports like the NFL, NBA, or MLB</p>
         <p>My last hobby I like to do is hangout with my friends from going out ot eat, to just playing basketball or football</p>
