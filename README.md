@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head> 
-    <Link rel="stylesheet" href="me.css">
-</head>    
+   <style></style>
+    {text-align: center;}
 <body>
 <img src="img_2096.png" alt="Brandon" width="600" height="600">
-<center> <h1>Getting To Know Each Other</h1>
+<h1>Getting To Know Each Other</h1>
+    .box-one {background-color: grey;
+    width: 1390px;
+    height: 280px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 30px;}
 <div class="box-one">
     <h2>Prefered Name</h2>
         <p>Brandon Kwan</p>
@@ -14,14 +19,22 @@
     <h2>Discord</h2>
         <p>bkwan1234</p>
 </div>
+  .box-two {
+    background-color: grey;
+    width: 1390px;
+    height: 500px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 30px;  
 <div class="box-two">
-    <center> <h3>Introduction</h3> 
+     <h3>Introduction</h3> 
         <p>Hi! My name is Brandon Kwan. I am a senior here at Lewis. I am from Kansas City, MO and my major/minor is Aviation Administration major and Aircraft Dispatch Minor. I live with my parents back home during the summer when I am not at Lewis and we also have 4 cats. I am not alone while I am here at Lewis though because my grandparents live in Chicago also so I get to visit them a lot while I am here at school. I also am apart of the basketball team here at Lewis.</p>
     <h3>What I hope to learn</h3>
         <p>I am hoping to learn more about coding and how computers work more</p>
     <h3>Favorite Hobbies</h3>
-       <li>One of my favorite hobbies is to go to the airport and watches airplanes takeoff and land</p>
+       <li>One of my favorite hobbies is to go to the airport and watching airplanes takeoff and land</p>
         <li>My second hobby is watching lots of sports. It could be watching college football or basketball and then any professional sports like the NFL, NBA, or MLB</p>
         <li>My last hobby I like to do is hangout with my friends from going out ot eat, to just playing basketball or football</p>
     <h3>Fun Fact</h3>
         <p>A fun fact about me is I am on the basketball team here at Lewis</p>
+/<body>
